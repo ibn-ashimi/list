@@ -1,0 +1,17 @@
+	body{
+	  background-color:orange;
+	  font-family: san-serif;
+	}
+	.color-purple{
+	  color: purple;
+	}
+	p{
+	  font-size: 18px;
+	}
+	
+	.color-green{
+	  color: green;
+	}
+	.link{
+	  text-decoration: underline;
+	  }
